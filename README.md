@@ -3,4 +3,4 @@
   
   
 # Solutions
-  - [TwoNumberSum](https://github.com/ClaudianoLeonardo/DCA0209-DataStructure_II/blob/main/solutions/TwoNumberSum/solution_twonumbersum.ipynb)
+  - [TwoNumberSum](https://github.com/ClaudianoLeonardo/DCA0209-DataStructure_II/tree/main/solutions/TwoNumberSum)
