@@ -1,0 +1,9 @@
+# TwoNumberSum:
+  O problema do TwoNumberSum pede uma função que recebe um array e um número alvo, e retorna uma lista com os números do array que quando somados resultam no número alvo, em caso negativo retorna uma lista vazia.
+# Implentação:
+  Esse algoritmo foi implentado com uma complexidade linear utilizando dicionários em python.
+  
+  [Solução](https://github.com/ClaudianoLeonardo/DCA0209-DataStructure_II/blob/main/solutions/TwoNumberSum/solution_twonumbersum.ipynb)
+  
+ # Referências:
+ https://github.com/ivanovitchm/datastructure
